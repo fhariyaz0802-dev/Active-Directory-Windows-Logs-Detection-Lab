@@ -20,22 +20,20 @@ This project demonstrates Windows security monitoring using Event Viewer and Sys
 ### 1. Windows VM Setup
 ![Windows Setup](windows%20setup.png)
 
-### 2. Sysmon Installation
-![Windows Setup2](Windows%20Setup2.png)
 
-### 3. Sysmon Operational Log
+### 2. Sysmon Operational Log
 ![Operational Log](System%20Operational%20Log.png)
 
-### 4. Process Creation Event (Event ID 1)
+### 3. Process Creation Event (Event ID 1)
 ![Process Creation](Process%20creation.png)
 
-### 5. Command Activity
+### 4. Command Activity
 ![Command Activity](Command%20Activity.png)
 
-### 6. Privileged Logon (Event ID 4672)
+### 5. Privileged Logon (Event ID 4672)
 ![Privileged Logon](Privileged%20Logon.png)
 
-### 7. Successful Logon (Event ID 4624)
+### 6. Successful Logon (Event ID 4624)
 ![Successful Logon](Successful%20Logon.png)
 
 ## Key Findings
